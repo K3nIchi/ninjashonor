@@ -1,2 +1,3 @@
-# ninjashonor
-Game prototype made for GBJAM 3
+# Ninja's Honor: Thrist for vengeance
+
+This is a game prototype made for a gamejam called GBJAM 3
